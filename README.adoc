@@ -14,6 +14,6 @@
 
 == Execution
 
-. Lancer java -jar `target/tp_qualite-1.0.jar`
+. Lancer `java -jar target/tp_qualite-1.0.jar`
 
 
